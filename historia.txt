@@ -2,10 +2,6 @@
 
 Alberth Perez tiene 35 años y nació en Colombia
 
-Experimento 1
-
-Experimento 2
-
-Master 1
+Esta es una historia desde GitHub
 
 Mañana nos enfocaremos en su vida laboral
