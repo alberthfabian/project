@@ -6,4 +6,4 @@ Esta es una historia desde GitHub
 
 Esto es lo que quiero subir a GitHub
 
-Esto es lo que quiero enviar a remoto
+Esto es lo que quiero enviar a local
